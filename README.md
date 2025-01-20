@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">passionate about technology and the world of IT, a self-taught dev.</h3>
+<h3 align="center">Passionate about the IT world and technology, a self-taught dev.</h3>
 
 - 🌱 I’m currently learning **Java Back-End**
 
