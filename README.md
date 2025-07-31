@@ -23,18 +23,9 @@
 ![Linux](https://img.shields.io/badge/Linux%20-%20linux?style=flat&logo=linux&logoColor=%23FCC624&color=black)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs"/>
+</p>
 
 
 
